@@ -101,3 +101,4 @@ public class Battle1 {
         return totalDamage;
     }
 }
+//test commit note
